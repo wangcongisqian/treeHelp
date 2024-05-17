@@ -42,7 +42,7 @@
 		 * @param: rootList 树根节点
 		 * @param: childrenList 树孩子节点
 		 * @param: isExpanded 是否展开
-		 * @return: java.util.List<com.cssca.mars.reg.modules.treehelp.domain.vo.TreeNodeVo> 返回树结构列表
+		 * @return: java.util.List<TreeNodeVo> 返回树结构列表
 		 */
 
 
